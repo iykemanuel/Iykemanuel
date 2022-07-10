@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there <img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/wave.gif" width="30px">  <h3 align="center"> I'm Emmanuel
 
 
