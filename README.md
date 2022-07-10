@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/wave.gif" width="30px">  <h3 align="center">Hi, I am Emmanuel</h3>
+### Hi there <img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/wave.gif" width="30px">  <h3 align="center">I'm Emmanuel</h3>
 
 
 <p align="left"> <a href="https://twitter.com/iykeblaq" target="blank"><img src="https://img.shields.io/twitter/follow/iykeblaq?logo=twitter&style=for-the-badge" alt="iykeblaq" /></a> </p>
