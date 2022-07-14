@@ -1,4 +1,5 @@
-### Hi there, welcome <img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/1UEn.gif" height="200px" width="200px">  I'm Emmanuel
+<img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/1UEn.gif" width="450px" align-self="center">
+<h1>Hi there, welcome... I'm Emmanuel</h>
 
 
 
