@@ -1,4 +1,4 @@
-### Hi there, welcome <img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/1UEn.gif" width="30px">  I'm Emmanuel
+### Hi there, welcome <img src="https://raw.githubusercontent.com/iykemanuel/iykemanuel/master/1UEn.gif" height="200px" width="200px">  I'm Emmanuel
 
 
 
